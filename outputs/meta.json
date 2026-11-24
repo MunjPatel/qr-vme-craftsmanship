@@ -1,0 +1,24 @@
+{
+  "n_months": 759,
+  "start": "1963-07-31",
+  "end": "2026-09-30",
+  "diagnostics": {
+    "val_mom_corr": -0.19127568207491005,
+    "hml_sharpe": 0.34014529506802654,
+    "mom_sharpe": 0.4974809328151682,
+    "n_months": 759,
+    "note": "Negative val\u2013mom correlation is the Asness\u2013Moskowitz\u2013Pedersen (2013) signature."
+  },
+  "lift": {
+    "integrate_minus_mix_sharpe": -0.09414366482606423,
+    "integrate_minus_mix_ann_mean": 0.00358285761772853,
+    "integrate_clears_hlz": true,
+    "mix_clears_hlz": true,
+    "val_mom_corr": -0.19127568207491005
+  },
+  "sources": [
+    "Asness, Moskowitz, Pedersen (2013), Value and Momentum Everywhere, JF",
+    "Fitzgibbons et al. (2017), Portfolio Construction Matters, AQR",
+    "Harvey, Liu, Zhu (2016), ... and the Cross-Section of Expected Returns, RFS"
+  ]
+}

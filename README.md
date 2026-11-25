@@ -23,3 +23,8 @@ Read `outputs/RESEARCH_MEMO.md` first.
 5. Python version 3.11+ recommended → Deploy
 
 The app reads artifacts under `outputs/`. Re-run `scripts/run_mvp.py` locally if you need to refresh them before pushing.
+
+## Live dashboard
+
+[https://qr-vme-craftsmanship.streamlit.app/](https://qr-vme-craftsmanship.streamlit.app/)
+
